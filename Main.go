@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./greet"
 	"fmt"
+	"github.com/Eriberto-Santos/Go-07/greet"
 )
 
 func main() {
